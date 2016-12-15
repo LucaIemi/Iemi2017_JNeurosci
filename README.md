@@ -1,6 +1,5 @@
 # Iemi2017_JNeurosci
 Matlab script for simulating the temporal contamination of a wavelet-transformed 10~Hz signal into pre-signal period
-Matlab script for simulating the temporal contamination of a wavelet-transformed 10~Hz signal into pre-signal period
 
 Time-frequency analysis was carried out using a wavelet transform (Morlet wavelets, frequency range: 1-30 Hz, number of cycles increasing linearly from 1 to 12). Thus, a wavelet at 10~Hz was 4.4 cycles long and had a temporal resolution σ_t of 0.14 s and a spectral resolution σ_f of 4.53~Hz. Frequencies and time points were sampled every 2 Hz and 40 ms, respectively. Since we were primarily interested in the prestimulus time range, no baseline correction was applied.
 
